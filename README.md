@@ -4,7 +4,7 @@ Features
 
 -Flash BTC,USDT Transaction (Core Network) or blockchain keys options
 -Defined the time that the transaction can remain in the wallet
--Defined the charges of the blockchain networks for a quick full confirmation
+-Defined the charges of the blockchain networks for a  quick full confirmation
 -VPN and TOR options included with proxy
 -Can check the blockchain address before transaction
 -Maximum 100 BTC/6000000 USDT for Basic package & 1000 BTC,60000000 USDT for Premium package.
