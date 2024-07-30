@@ -3,7 +3,7 @@
 
  **Flash USDT& BTC Sender Software**, a premier solution for Tether (USDT) & Bitcoin (BTC) transactions. 🌐
  
-[BUY NOW](https://t.me/flashBU)
+[BUY NOW](https://t.me/Customers_Support_CS)
 ---
 
 
